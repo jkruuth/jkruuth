@@ -1,6 +1,6 @@
 👋 Hi, I’m @jkruuth
 
-Computer science student at <a href="https://www.jyu.fi/fi">University of Jyväskylä</a>
+Computer science student @ <a href="https://www.jyu.fi/fi">University of Jyväskylä</a>
 
 <!---
 jkruuth/jkruuth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
