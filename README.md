@@ -1,4 +1,4 @@
-👋 Hi, I’m Joonas Ruuth@jkruuth
+👋 Hi, I’m Joonas Ruuth @jkruuth
 
 Computer science student @<a href="https://www.jyu.fi/fi">University of Jyväskylä</a>
 
